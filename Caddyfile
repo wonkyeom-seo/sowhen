@@ -1,0 +1,9 @@
+{
+    email swk1072@gmail.com
+    acme_ca https://acme.zerossl.com/v2/DV90
+}
+
+sowhen.kro.kr {
+    encode gzip zstd
+    reverse_proxy localhost:4545
+}
