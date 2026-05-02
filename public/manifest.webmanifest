@@ -1,0 +1,17 @@
+{
+  "name": "쏘왠",
+  "short_name": "쏘왠",
+  "description": "약속 날짜를 빠르게 맞추는 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fb",
+  "theme_color": "#f8f9fb",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
